@@ -64,6 +64,9 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <p align="center">
   Visitor count<br>
